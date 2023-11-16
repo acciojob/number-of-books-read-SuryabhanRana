@@ -22,6 +22,7 @@ const numberOfBooksRead = () => {
 
   // Return the length of the array, which represents the number of read books
   return readBooks.length;
+	
 };
 
 // Do not change the code below
